@@ -1,18 +1,11 @@
-## Getting Started
+# HackerRank
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This GitHub repository is dedicated to my solutions for HackerRank exercises. 
 
-## Folder Structure
+The main objective of this repository is to document my progress and share my solutions. I started with basic exercises, and as I gain more knowledge and skills, I will continue to commit new exercises and updated solutions.
 
-The workspace contains two folders by default, where:
+The repository is organized in a structured manner, with a folder for each exercise category and a dedicated file for each exercise.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Remember that this repository is constantly evolving, as I add new exercises and solutions while I continue solving challenges on HackerRank.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Enjoy programming!
